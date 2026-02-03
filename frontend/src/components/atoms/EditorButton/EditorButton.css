@@ -1,0 +1,19 @@
+.editor-button {
+    display: flex;
+    flex-direction: row;
+    outline: none;
+    background-color: #303242;
+    font-size: 14px;
+    height: 30px;
+    border-left: none;
+    border-bottom: none;
+    border-top: 1px solid rgb(8, 18, 167);
+    color: white;
+    min-width: 100px;
+    padding: 3px 7px 3px 7px;
+}
+
+.editor-buttons-container {
+    display: flex;
+    overflow-y: auto;
+}

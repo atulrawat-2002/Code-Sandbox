@@ -1,0 +1,14 @@
+.action-button {
+    background-color: rgb(44, 45, 53);
+    outline: none;
+    border: none;
+    width: auto;
+    height: 30px;
+    cursor: pointer;
+    font-size: 19px;
+    padding: 1px 27px;
+}
+
+.action-button:hover {
+    background-color: rgb(62, 63, 70);
+}

@@ -1,0 +1,7 @@
+{
+  "watch": ["src"],
+  "ext": "js,json",
+  "events": {
+    "restart": "echo \"Nodemon restarted due to: $FILENAME\""
+  }
+}

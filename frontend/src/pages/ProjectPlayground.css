@@ -1,0 +1,16 @@
+.filemenu-button {
+    margin-top: 10px;
+    margin-left: 5px;
+    cursor: pointer;
+}
+
+.treeStructure-container {
+    background-color: #111128;
+    display: flex;
+    padding-top: .3vh;
+    height: 100vh;
+    padding-right: 10px;
+    overflow-y: scroll;
+    overflow-x: visible;
+    width: 20%;
+    }
